@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+
+.navbar{
+    align-items: center;
+    position: relative;
+    height: 100vh;
+    background-color:rgb(148, 197, 102)
+}
+.navbar-items-right{
+    padding-left: 50px;
+}
+.navbar-items{
+    display: flex;
+    
+}
+.navbar-items-list-item{
+}
+
+.navbar-items-left{
+    flex: 1;
+}
+
+.navbar-items-right{
+    display: flex;
+    justify-content:space-between ;
+}
+
+.navbar-items-list{
+    margin-left: 100px;
+    justify-content:space-around;
+    display: flex;
+    list-style: none;
+}

@@ -1,0 +1,35 @@
+.profile{
+    box-shadow: burlywood;
+    position: relative;
+    padding: 30px;
+    align-items: center;
+    background-color: rgb(217, 235, 57);
+
+}
+
+.name{
+    flex: 1;
+    color: cadetblue;
+    
+}
+
+.photo{
+    flex: 1;
+}
+
+.about{
+    color: rgb(255, 72, 0);
+}
+
+.status{
+    color: darkblue;
+}
+
+.year{
+    color: darkblue;
+}
+
+
+.update-profile{
+    margin-top: 50px;
+}

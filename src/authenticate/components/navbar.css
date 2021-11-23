@@ -1,0 +1,21 @@
+.navbar{
+    height: 50px;
+    background-color: green;
+    color: white;
+    display: flex;
+
+    align-items: center;
+    list-style: none;
+}
+
+.listItem{
+    margin-right: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.logo{
+    
+}
+.avatar{
+    width: ;
+}
