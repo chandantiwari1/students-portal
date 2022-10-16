@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.6",
+    "husky": "^8.0.1",
+    "react-redux": "^8.0.4",
+    "redux": "^4.2.0"
+  },
+  "devDependencies": {
+    "@redux-devtools/core": "^3.13.1"
+  }
+}
