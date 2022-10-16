@@ -1,15 +1,12 @@
 {
-  "name": "socket",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "nodemon index.js"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.15",
-    "socket.io": "^4.3.2"
+    "@reduxjs/toolkit": "^1.8.6",
+    "husky": "^8.0.1",
+    "react-redux": "^8.0.4",
+    "redux": "^4.2.0"
+  },
+  "devDependencies": {
+    "@redux-devtools/core": "^3.13.1"
   }
+
 }
