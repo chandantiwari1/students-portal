@@ -35,6 +35,18 @@ go to server-directory
 run `npm start`
 
 
+## Add your Profile
+# go to CONTRIBUTORS-directory
+Add file your_name.md
+Add your details
+
+# Go to  CONTRIBUTION.MD
+Add your profile
+
+
+run `npm start`
+
 📝 [MUST READ](./wiki/Guidelines-for-Contributing) before contributing to this repository.
 
 > Any further issues regarding the monorepo aspect: Look up turborepo
+
