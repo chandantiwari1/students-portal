@@ -1,0 +1,33 @@
+# Node.js Vs Typescript
+
+For years Javascript has been the go-to development language of choice for client-side developers by
+providing the power and flexibility to build web-based applications. Today, the use of Javascript is 
+migrating towards server-side applications. As web applications became more extensive and complex, 
+developers use Typescript to expand Javascript capabilities.
+
+Typescript and Node.js are two tools every developer needs in their toolbox.
+Typescript is a Javascript superset tool developed by Microsoft to expand the capabilities of Javascript.
+Typescript creates static types allowing developers to identify issues in code before being in a runtime environment.
+It is strictly a development language and must be transpiled into Javascript before being used in production.
+
+Node.js is a runtime development framework used to execute Javascript on the server-side. It allows developers to 
+use Javascript for server-side applications simplifying the development process and reducing costs.
+
+Node.js provides a way for front-end Javascript developers to become full-stack developers without learning a different 
+programming language or development framework.
+
+# What is Typescript?
+
+Typescript is an open-source language introduced in 2012 by Microsoft to expand the capabilities of Javascript. In 2019, 
+developers on StackOverflow voted Typescript as one of the most loved languages, and it is considered an excellent tool for larger, 
+more complex coding applications. For instance, it creates a more structured code by providing optional static typing. This feature 
+is beneficial for larger applications written by remote teams of developers since it makes it easier to spot bugs earlier in the 
+development process. It is also popular because Javascript developers have a shorter learning curve to develop server-side applications.
+
+# What is Node.js?
+
+Node.js is an unopinionated low-level platform and Javascript runtime environment for server-side programming applications. 
+It uses V8 Javascript, the core of Google Chrome, outside of the browser. Because it is an open-source platform, Node.js is supported by
+an extensive code library that is growing daily. The developer community is very active and provides numerous query builders, 
+object-relational models (ORMs), and database toolkits. Learn more about Node.js.
+
