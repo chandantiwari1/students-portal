@@ -1,0 +1,11 @@
+JavaScript is not understandable by computer but the only browser understands JavaScript.
+So, we need a program to convert our JavaScript program into computer-understandable language.
+A JavaScript engine is a computer program that executes JavaScript code and converts it into computer understandable language.Browser	Name of Javascript Engine
+
+
+list of javascript engine:
+browser:            name of javascript engine                
+Google Chrome:	V8
+Edge (Internet Explorer): 	Chakra
+Mozilla Firefox	Spider:  Monkey
+Safari: 	Javascript Core Webkit
